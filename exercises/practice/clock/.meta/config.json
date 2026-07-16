@@ -1,0 +1,18 @@
+{
+  "authors": [
+    "ricardomaps"
+  ],
+  "files": {
+    "solution": [
+      "clock.nix"
+    ],
+    "test": [
+      "clock-test.nix"
+    ],
+    "example": [
+      ".meta/example.nix"
+    ]
+  },
+  "blurb": "Implement a clock that handles times without dates.",
+  "source": "Pairing session with Erin Drummond"
+}
