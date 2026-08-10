@@ -131,6 +131,14 @@
         "difficulty": 3
       },
       {
+        "slug": "clock",
+        "name": "Clock",
+        "uuid": "acedcf7d-c34c-4c38-8a29-c6aed2c03c84",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 3
+      },
+      {
         "slug": "collatz-conjecture",
         "name": "Collatz Conjecture",
         "uuid": "eacd6301-a64c-4969-ae9f-04e30094f926",
