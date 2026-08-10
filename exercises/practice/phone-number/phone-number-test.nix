@@ -1,5 +1,5 @@
 let
-  inherit (import ./.meta/example.nix) clean;
+  inherit (import ./phone-number.nix) clean;
 in
 {
   "test cleans the number" = {
